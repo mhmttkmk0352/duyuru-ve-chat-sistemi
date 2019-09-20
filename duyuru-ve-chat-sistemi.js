@@ -2,7 +2,7 @@
             /*
             POSTMAN JSON ORNEGI (Veriler asagidaki gibi buraya post edilecek)
             {
-                "token": "747jkl-58ds-f6zz-23fr-06396e8d2975",
+                "token": "4444-4444-ffff-4444-222222222",
                 "olusturan": "Mehmet TOKMAK",
                 "mesaj": "Test",
                 "kisiler": ["90","80","210"]
